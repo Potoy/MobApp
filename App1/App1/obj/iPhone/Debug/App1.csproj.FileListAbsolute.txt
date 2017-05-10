@@ -1,0 +1,11 @@
+C:\Users\juang\Documents\Visual Studio 2015\Projects\App1\App1\obj\iPhone\Debug\ibtool\_BundleResourceWithLogicalName.items
+C:\Users\juang\Documents\Visual Studio 2015\Projects\App1\App1\obj\iPhone\Debug\actool\_PartialAppManifest.items
+C:\Users\juang\Documents\Visual Studio 2015\Projects\App1\App1\obj\iPhone\Debug\actool\_BundleResourceWithLogicalName.items
+C:\Users\juang\Documents\Visual Studio 2015\Projects\App1\App1\obj\iPhone\Debug\optimized\
+C:\Users\juang\Documents\Visual Studio 2015\Projects\App1\App1\obj\iPhone\Debug\App1.csprojResolveAssemblyReference.cache
+C:\Users\juang\Documents\Visual Studio 2015\Projects\App1\App1\bin\iPhone\Debug\App1.exe
+C:\Users\juang\Documents\Visual Studio 2015\Projects\App1\App1\bin\iPhone\Debug\App1.pdb
+C:\Users\juang\Documents\Visual Studio 2015\Projects\App1\App1\bin\iPhone\Debug\Newtonsoft.Json.dll
+C:\Users\juang\Documents\Visual Studio 2015\Projects\App1\App1\bin\iPhone\Debug\Newtonsoft.Json.xml
+C:\Users\juang\Documents\Visual Studio 2015\Projects\App1\App1\obj\iPhone\Debug\App1.exe
+C:\Users\juang\Documents\Visual Studio 2015\Projects\App1\App1\obj\iPhone\Debug\App1.pdb
